@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 header {
-    background-color: tomato;
+    background-color:gold;
     height: 100px;
     position: relative;
 }
@@ -18,21 +18,21 @@ main {
 
 .left {
     width: 20%;
-    background-color: rgb(203, 235, 235);
+    background-color: grey;
 }
 
 .content {
     width: 60%;
-    background-color: thistle;
+    background-color: blue;
 }
 
 .right {
     width: 20%;
-    background-color: wheat;
+    background-color:violet;
 }
 
 footer {
-    background-color: yellowgreen;
+    background-color: green;
     height: 100px;
 }
 
@@ -44,7 +44,7 @@ ul li {
     display: inline;
     margin: 10px;
     padding: 5px;
-    background-color: rgb(255, 255, 255);
+    background-color:red;
 }
 
 .content {
